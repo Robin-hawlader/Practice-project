@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "name": "Write Your Product Title Here",
+    "price": "$199.99",
+    "image": "/src/assets/NewArival/NewArival-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Write Your Product Title Here",
+    "price": "$149.99",
+    "image": "/src/assets/NewArival/NewArival-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Write Your Product Title Here",
+    "price": "$99.99",
+    "image": "/src/assets/NewArival/NewArival-3.png"
+  },
+  {
+    "id": 5,
+    "name": "Write Your Product Title Here",
+    "price": "$89.99",
+    "image": "/src/assets/NewArival/NewArival-4.png"
+  },
+  {
+    "id": 6,
+    "name": "Write Your Product Title Here",
+    "price": "$89.99",
+    "image": "/src/assets/NewArival/NewArival-4.png"
+  },
+  {
+    "id": 7,
+    "name": "Write Your Product Title Here",
+    "price": "$89.99",
+    "image": "/src/assets/NewArival/NewArival-4.png"
+  },
+  {
+    "id": 8,
+    "name": "Write Your Product Title Here",
+    "price": "$89.99",
+    "image": "/src/assets/NewArival/NewArival-4.png"
+  },
+  {
+    "id": 9,
+    "name": "Write Your Product Title Here",
+    "price": "$89.99",
+    "image": "/src/assets/NewArival/NewArival-4.png"
+  },
+  {
+    "id": 10,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 11,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 12,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 13,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 14,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 15,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 16,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 17,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 18,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 19,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/NewArival/NewArival-5.png"
+  },
+  {
+    "id": 20,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-1.png"
+  },
+  {
+    "id": 21,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-2.png"
+  },
+  {
+    "id": 22,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-3.png"
+  },
+  {
+    "id": 23,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-4.png"
+  },
+  {
+    "id": 24,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-5.png"
+  },
+  {
+    "id": 25,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-1.png"
+  },
+  {
+    "id": 26,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-2.png"
+  },
+  {
+    "id": 27,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-3.png"
+  },
+  {
+    "id": 28,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-4.png"
+  },
+  {
+    "id": 29,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-5.png"
+  },
+  {
+    "id": 30,
+    "name": "Write Your Product Title Here",
+    "price": "$79.99",
+    "image": "/src/assets/TopSelling/topselling-1.png"
+  }
+]
